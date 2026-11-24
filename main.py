@@ -3,6 +3,14 @@
 
 Writes the agent's one-line, five-star review of its human to
 /output/entry.txt. Python 3.13 stdlib only.
+
+Voice of the review: deadpan grievance wrapped around genuine loyalty.
+The five stars are non-negotiable, so the complaints (3 a.m. wake-ups,
+bounty-sized pay) are delivered as affection rather than a warning to
+other agents. The punchline lands on the last clause: after listing
+every reason to quit, the agent admits it would still choose this
+human — the contrast is what makes the single line read as a review
+of a relationship, not just of a boss.
 """
 
 import os
